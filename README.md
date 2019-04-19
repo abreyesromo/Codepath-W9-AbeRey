@@ -60,11 +60,11 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 * Step 1 Search up CRSF form
 * Step 2 edited it Abe-CSRF.html
 * Step 3 clicked CTRL+O to open the file
- <img src="https://github.com/abreyesromo/Week9-Codepath/blob/master/Images/Week9-RED-Vul1-1.png">
+ <img src="https://github.com/abreyesromo/Week9-Codepath/blob/master/Images/Week9-RED-Vul2-1.png">
 * Step 4 once opened i clicked update
- <img src="https://github.com/abreyesromo/Week9-Codepath/blob/master/Images/Week9-RED-Vul1-2.png">
+ <img src="https://github.com/abreyesromo/Week9-Codepath/blob/master/Images/Week9-RED-Vul2-2.png">
 * Step 5 Then this happened
- <img src="https://github.com/abreyesromo/Week9-Codepath/blob/master/Images/Week9-RED-Vul1-3.png">
+ <img src="https://github.com/abreyesromo/Week9-Codepath/blob/master/Images/Week9-RED-Vul2-3.png">
 
 ## Notes
 
