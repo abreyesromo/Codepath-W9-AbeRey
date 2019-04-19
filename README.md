@@ -1,7 +1,7 @@
 # Week9-Codepath
 # Project 8 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -18,16 +18,10 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 ###### Vulnerability #1: XSS
-* Step 1
-* Step 2
-* Step 3
-* Step 4
+* Step 1 In the process of elimination i found Blue to be the XSS culprit
 
 ###### Vulnerability #2: SQLi
-* Step 1
-* Step 2
-* Step 3
-* Step 4
+* Step 1 In the process of elimination i found Blue to be the SQLi culprit
 
 ## Green
 
@@ -42,9 +36,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ###### Vulnerability #2:Session Hijacking/Fixation
 * Step 1 Found out that after 30min Green website times out
-* Step 2
-* Step 3
-* Step 4
+* Step 2 makes it vulnerable to both session hijacking and session fixation attacks
 
 ## Red ##
 
