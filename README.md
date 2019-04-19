@@ -39,7 +39,7 @@ Vulnerability #1: Username Enumeration
 >>Step 4 Saw the login failed was not bold
 >>Step 5 test as many users as I want and test what works.
 
-Vulnerability #2: __________________
+Vulnerability #2:Session Hijacking/Fixation
 Step 1
 Step 2
 Step 3
