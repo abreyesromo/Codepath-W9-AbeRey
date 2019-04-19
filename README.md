@@ -41,7 +41,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 * Step 5 test as many users as I want and test what works.
 
 ###### Vulnerability #2:Session Hijacking/Fixation
-* Step 1
+* Step 1 Found out that after 30min Green website times out
 * Step 2
 * Step 3
 * Step 4
@@ -56,12 +56,15 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
  <img src="https://github.com/abreyesromo/Week9-Codepath/blob/master/Images/Week9-RED-Vul1-1.png">
 * Step 4 Thats it.
 
-###### Vulnerability #2: CRSF(See html file)
-* Step 1 used
-* Step 2
-* Step 3
-* Step 4
-
+###### Vulnerability #2: CRSF(See html file-->https://github.com/abreyesromo/Week9-Codepath/blob/master/Abe-CSRF.html)
+* Step 1 Search up CRSF form
+* Step 2 edited it Abe-CSRF.html
+* Step 3 clicked CTRL+O to open the file
+ <img src="https://github.com/abreyesromo/Week9-Codepath/blob/master/Images/Week9-RED-Vul1-1.png">
+* Step 4 once opened i clicked update
+ <img src="https://github.com/abreyesromo/Week9-Codepath/blob/master/Images/Week9-RED-Vul1-2.png">
+* Step 5 Then this happened
+ <img src="https://github.com/abreyesromo/Week9-Codepath/blob/master/Images/Week9-RED-Vul1-3.png">
 
 ## Notes
 
