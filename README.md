@@ -30,11 +30,15 @@ Step 4
 
 ## Green
 
-Vulnerability #1: __________________
-Step 1
-Step 2
-Step 3
-Step 4
+Vulnerability #1: Username Enumeration
+>>Step 1 use a known username(pperson)
+ <img src="https://github.com/abreyesromo/Week9-Codepath/blob/master/Images/Week9-Green-Vul1-1.png">
+>>Step 2 Saw the login failed was bold
+>>Step 3 used a unknown user (1)
+ <img src="https://github.com/abreyesromo/Week9-Codepath/blob/master/Images/Week9-Green-Vul1-2.png">
+>>Step 4 Saw the login failed was not bold
+>>Step 5 test as many users as I want and test what works.
+
 Vulnerability #2: __________________
 Step 1
 Step 2
@@ -49,7 +53,7 @@ Step 2
 Step 3
 Step 4
 Vulnerability #2: IDOR
-Step 1
+Step 1 
 Step 2
 Step 3
 Step 4
