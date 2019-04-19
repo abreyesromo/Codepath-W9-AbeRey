@@ -18,10 +18,10 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: XSS
->Step 1
->Step 2
->Step 3
->Step 4
+⋅⋅*Step 1
+⋅⋅*Step 2
+⋅⋅*Step 3
+⋅⋅*Step 4
 
 Vulnerability #2: SQLi
 >Step 1
